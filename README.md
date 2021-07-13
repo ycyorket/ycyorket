@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ycyorket
 - 👀 I’m interested in frontend!
-- 🌱 I’m currently learning Typescript and Redux!
+- 🌱 I’m currently learning Vue, Typescript and Redux!
 - 💞️ I’m looking to collaborate on some open source projects!
 - 📫 You can reach me by sending emails to ycyorketernal@gmail.com or ycyorketernal@zju.edu.com.
 
